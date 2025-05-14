@@ -7,7 +7,7 @@
 
 .time-display {
   font-size: 4rem;
-  font-family: 'Orbitron', sans-serif;
+  font-family: 'Roboto Mono', monospace;
   display: flex;
   align-items: center;
   margin-bottom: 1rem;
@@ -18,6 +18,8 @@
   padding: 10px 15px;
   border-radius: 5px;
   margin: 0 5px;
+  min-width: 70px;
+  text-align: center;
 }
 
 .time-separator {
@@ -36,6 +38,7 @@
 .date-display {
   font-size: 1.2rem;
   color: #aaa;
+  font-family: 'Roboto Mono', monospace;
 }
 
 @keyframes blink {

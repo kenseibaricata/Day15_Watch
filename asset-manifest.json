@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Day15_Watch/static/css/main.2e936a70.css",
+    "main.css": "/Day15_Watch/static/css/main.0565a144.css",
     "main.js": "/Day15_Watch/static/js/main.390d7e62.js",
     "static/js/453.4e39efaa.chunk.js": "/Day15_Watch/static/js/453.4e39efaa.chunk.js",
     "index.html": "/Day15_Watch/index.html",
-    "main.2e936a70.css.map": "/Day15_Watch/static/css/main.2e936a70.css.map",
+    "main.0565a144.css.map": "/Day15_Watch/static/css/main.0565a144.css.map",
     "main.390d7e62.js.map": "/Day15_Watch/static/js/main.390d7e62.js.map",
     "453.4e39efaa.chunk.js.map": "/Day15_Watch/static/js/453.4e39efaa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e936a70.css",
+    "static/css/main.0565a144.css",
     "static/js/main.390d7e62.js"
   ]
 }

@@ -8,7 +8,7 @@
 
 .time-display {
   font-size: 3.5rem;
-  font-family: 'Orbitron', sans-serif;
+  font-family: 'Roboto Mono', monospace;
   background-color: #222;
   padding: 15px 30px;
   border-radius: 8px;
@@ -109,5 +109,5 @@
 }
 
 .lap-time {
-  font-family: 'Orbitron', sans-serif;
+  font-family: 'Roboto Mono', monospace;
 } 
