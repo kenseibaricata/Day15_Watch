@@ -1,0 +1,51 @@
+.clock-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.time-display {
+  font-size: 4rem;
+  font-family: 'Orbitron', sans-serif;
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.time-value {
+  background-color: #222;
+  padding: 10px 15px;
+  border-radius: 5px;
+  margin: 0 5px;
+}
+
+.time-separator {
+  font-weight: bold;
+  animation: blink 1s infinite;
+}
+
+.ampm {
+  font-size: 1.5rem;
+  margin-left: 10px;
+  background-color: #333;
+  padding: 5px 10px;
+  border-radius: 3px;
+}
+
+.date-display {
+  font-size: 1.2rem;
+  color: #aaa;
+}
+
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.3;
+  }
+  100% {
+    opacity: 1;
+  }
+} 
