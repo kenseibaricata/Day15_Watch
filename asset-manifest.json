@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Day15_Watch/static/css/main.8a3e0e90.css",
+    "main.js": "/Day15_Watch/static/js/main.b31ab9b9.js",
+    "static/js/453.717a9853.chunk.js": "/Day15_Watch/static/js/453.717a9853.chunk.js",
+    "index.html": "/Day15_Watch/index.html",
+    "main.8a3e0e90.css.map": "/Day15_Watch/static/css/main.8a3e0e90.css.map",
+    "main.b31ab9b9.js.map": "/Day15_Watch/static/js/main.b31ab9b9.js.map",
+    "453.717a9853.chunk.js.map": "/Day15_Watch/static/js/453.717a9853.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a3e0e90.css",
+    "static/js/main.b31ab9b9.js"
+  ]
+}
